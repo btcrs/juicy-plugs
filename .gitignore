@@ -1,0 +1,17 @@
+.chalice/deployments/
+.chalice/venv/
+.DS_Store
+.ropeproject/
+__pycache__/
+certifi-2018.1.18.dist-info/
+certifi/
+chardet-3.0.4.dist-info/
+chardet/
+idna-2.6.dist-info/
+idna/
+plugs/
+requests-2.18.4.dist-info/
+requests/
+requirements.txt
+urllib3-1.22.dist-info/
+urllib3/
